@@ -1,2 +1,3 @@
 *.code-workspace
-/home/angus/Programming/Python/DL4CVStarterBundle/Chapter07/pyimagesearch/pyimagsearchvenv/
+pyimagsearchvenv/
+.vscode/
